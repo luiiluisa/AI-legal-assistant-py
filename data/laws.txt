@@ -1,0 +1,11 @@
+Art. 101 | violation | Trecerea pe culoarea roșie a semaforului constituie contravenție.
+Art. 102 | violation | Depășirea limitei legale de viteză constituie contravenție rutieră.
+Art. 103 | violation | Neacordarea priorității de trecere constituie contravenție.
+Art. 104 | violation | Conducerea fără purtarea centurii de siguranță constituie contravenție.
+Art. 105 | violation | Utilizarea telefonului mobil în timpul conducerii constituie contravenție.
+
+Art. 201 | defense | Existența unei stări de necesitate poate reprezenta circumstanță favorabilă.
+Art. 202 | defense | O urgență medicală poate influența analiza juridică a faptei.
+Art. 203 | defense | Lipsa unei semnalizări clare poate fi un element favorabil în analiză.
+Art. 204 | defense | Culpa comună a participanților la trafic poate reduce răspunderea exclusivă.
+Art. 205 | defense | Evitarea unui pericol iminent poate constitui element în favoarea persoanei.
